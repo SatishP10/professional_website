@@ -183,7 +183,7 @@ export default function Experiences() {
           <div className="flex flex-col gap-6 w-full">
             <ExperienceCard
               index={0}
-              title="Bachelor’s of Science in Computer Engineering @ The University of Texas at Dallas"
+              title="Bachelor’s of Science in Computer Engineering at The University of Texas at Dallas"
               isPill={true}
               summary="Learned both  CS and EE concepts, ranging from data structures and algorithms, to operating systems, to electrical network analysis."
             />
@@ -191,7 +191,7 @@ export default function Experiences() {
               index={1}
               title="IEEE RF Mentor"
               isPill={true}
-              summary="Taught RF and signal processing basics to underclassmen through the use of an Arduino Uno and various transmitter and receiver modules."
+              summary="As a part of the Institute of Electrical and Electronic Engineers (IEEE), I taught underclassmen the fundamentals of RF and signal processing. This was done with the use of the Arduino Uno and various receivers and transmitters."
             />
           </div>
         </motion.section>
